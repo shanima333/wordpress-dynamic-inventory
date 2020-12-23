@@ -1,4 +1,4 @@
-# Ansible playbook to create EC2 instance and 
+# Ansible playbook to create EC2 instance and install wordpress
 
 Playbook to :
 - create EC2 instance
